@@ -1,4 +1,5 @@
-<h1 align="center"> LET'S MAKE A CHANGE! </h1>
-<h3 align="center"> Hi! I'm Lex Gallego, an aspiring Programmer  </h3>
-
+<h6 align="right"> Be Part of the Solution! </h6>
+<br>
+<h1 align="center">Hallo, I'm Lex Gallego</h1>
+<h4 align="center"> <> </h4>
 
