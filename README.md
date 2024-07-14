@@ -3,10 +3,9 @@
 <h1 align = "center" > Welcome! I'm Lex Gallego </h1>
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Follow_me_on_IG-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sub.atomic_lex) 
+[![Instagram](https://img.shields.io/badge/Follow_me_on_IG-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/) 
 [![YouTube](https://img.shields.io/badge/Study_Streaminng_in_YT-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@LexStudium)
-[![Pinterest](https://img.shields.io/badge/Project_Gallery_here-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Lemon) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26277733) 
+[![Pinterest](https://img.shields.io/badge/Project_Gallery_here-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lex-gallego-2794071a3/)
 </div>
 <h3 align = "center" > Self-Driven to Consistently Grow my Developer Skills </h3>
