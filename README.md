@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=madgallego&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHA4ejdveTRxZGxuYzQ4amY2NTI1eTdmZ3hvOHh2ZTJvMnI1dHkxMiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/L05HgB2h6qICDs5Sms/giphy.gif"  />
 </div>
 
 <br>
